@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codestore.github.io/static/css/main.e0ccf17f.css",
+    "main.js": "/codestore.github.io/static/js/main.79ca1000.js",
+    "index.html": "/codestore.github.io/index.html",
+    "main.e0ccf17f.css.map": "/codestore.github.io/static/css/main.e0ccf17f.css.map",
+    "main.79ca1000.js.map": "/codestore.github.io/static/js/main.79ca1000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ccf17f.css",
+    "static/js/main.79ca1000.js"
+  ]
+}
